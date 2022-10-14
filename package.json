@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/terrance456/drag-drop-file-utils/issues"
   },
-  "homepage": "https://github.com/terrance456/drag-drop-file-utils#readme"
+  "homepage": "https://github.com/terrance456/drag-drop-file-utils#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
 }
