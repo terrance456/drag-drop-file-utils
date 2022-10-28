@@ -22,7 +22,7 @@ npm i --save drag-drop-file-utils
 ## Usage
 
 ```js
-import DragDropFile from "drag-drop-file-utils";
+import { DragDropFile } from "drag-drop-file-utils";
 
 const dropContainer = document.querySelector("#drop-container");
 const dragDropFile = new DragDropFile(dropContainer);

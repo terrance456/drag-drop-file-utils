@@ -1,6 +1,6 @@
 import { DragEventCallbacks } from "../types/general.type";
 
-export default class DragDropFile {
+export class DragDropFile {
   constructor(element: HTMLElement, dragFn: DragEventCallbacks) {
     this.element = element;
     this.dragFn = dragFn;

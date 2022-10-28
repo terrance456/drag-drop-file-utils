@@ -2,6 +2,9 @@
 /node_modules
 .env
 /lib
+/dist
+index.d.ts
+index.js
 
 # testing
 /coverage
