@@ -1,6 +1,6 @@
 {
   "name": "drag-drop-file-utils",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Drag drop file helper functions",
   "type": "module",
   "scripts": {
@@ -27,5 +27,16 @@
     "rollup": "^3.2.3",
     "rollup-plugin-dts": "^5.0.0",
     "typescript": "^4.8.4"
-  }
+  },
+  "keywords": [
+    "drag",
+    "drop",
+    "utils",
+    "file-drop",
+    "valina-drag-drop",
+    "drag-drop-file-utils",
+    "dragger",
+    "upload",
+    "files"
+  ]
 }
