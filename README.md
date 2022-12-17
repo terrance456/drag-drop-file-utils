@@ -21,6 +21,16 @@ npm i --save drag-drop-file-utils
 
 ## Usage
 
+### HTML
+
+```html
+<div id="drop-container">
+  <input type="file" id="drop-file-input" multiple />
+</div>
+```
+
+### JS
+
 ```js
 import { DragDropFile } from "drag-drop-file-utils";
 
